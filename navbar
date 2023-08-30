@@ -1,0 +1,58 @@
+CHARCOAL
+
+.main-navigation .main-nav ul li a { 
+	padding-left: 8px; 
+	padding-right: 8px; 
+	line-height: 2.5; }
+
+.main-navigation a { 
+	text-transform: uppercase; 
+	font-size: 16px; 
+}
+
+a:active, a:hover { 
+	color: #547873 !important;
+	opacity: 0.9;
+}
+
+.page-content a { text-decoration: none; }
+
+.site-logo { width: 300px; }
+
+.inside-header {
+	padding: 10px !important;
+}
+
+.inside-header .grid-container {
+	width: 1000px;
+}
+
+.site-header {
+	border-bottom: solid 1px rgba(0, 0, 0, 0.5);
+}
+
+.site-header .header-image{
+	height: 140px !important;
+	max-width: 200px !important;
+}
+
+/*
+#site-navigation { 
+	border-bottom: solid 1px rgba(128, 128, 128, 0.5); 
+	border-top: solid 1px rgba(128, 128, 128, 0.5); 
+	background-color: #e9e9e9;
+} */
+
+.main-nav ul li[class*="current-menu-"] > a { 
+	color: #1a4c8e !important;
+	font-weight: 500;
+}
+
+.menu-item-has-children .dropdown-menu-toggle {
+	padding-left: 8px;
+	padding-right: 6px;
+}
+
+HFE THINGY
+
+
