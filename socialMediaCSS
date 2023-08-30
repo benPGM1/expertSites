@@ -1,0 +1,48 @@
+/* Social Media Section CSS */
+
+/* Getting rid of the background */
+#ff-stream-1 { 
+background-color: #ffffff !important; 
+}
+
+/* Getting rid of the padding and margins around the section */
+.ff-stream {
+	padding: 0px 0px 0px !important;
+}
+
+.ff-stream-wrapper {
+	margin: 0px 0px !important;
+}
+
+/* Making the cards the same height */
+.ff-item-cont {
+	height: 600px !important;
+}
+
+/* Make the images all the same hight */
+.ff-upic-round .ff-img-holder:first-child, .ff-upic-round .ff-img-holder:first-child img {
+	max-height: 267px !important;
+}
+
+.ff-item-meta {
+    position:  relative !important;
+    bottom: 0px !important;
+}
+
+
+/* Getting rid of the button */
+.ff-loadmore-wrapper .ff-btn {
+display:  none !important;
+visibility: 0 !important;
+
+
+.ff-img-holder, .ff-img-holder a {
+height:  250px !important;
+}
+
+.ff-layout-masonry .ff-item:not(.ff-ad) .ff-content {
+max-height: 265px !important;
+}
+}
+
+/* End of Social Media */
