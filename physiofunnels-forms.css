@@ -3,18 +3,18 @@ margin: 0px !important;
 font-weight: 600 !important;
 font-family · 'Libre Franklin';
 text-transform: uppercase;
-
 }
 
 button {
 margin: 10px 0 0 0 !important;
-background-color: #808080 !important;
+background-color: #2098AA !important;
 }
 
 label {
 padding-bottom: 5px !important;
 padding-top: 1px !important;
-color: #808080 !important;
+color: #2098AA !important;
+font-size: 14px !important;
 }
 
 .multiselect__tags {
